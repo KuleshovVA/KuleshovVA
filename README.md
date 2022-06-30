@@ -16,8 +16,8 @@
     - 📖: Favorite books about Java:
            - Modern Java in Action - Raoul-Gabriel Urma, Mario Fusco;
            - Core Java vol 1 & 2 - Cay S. Horstmann;
-           - 
-  
+           - Java Language Features - Kishori Sharan;
+           - Java Concurency - Brian Goetz;  
   
   
   
