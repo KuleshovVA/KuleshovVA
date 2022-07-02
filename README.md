@@ -12,7 +12,7 @@
   
   ### 🖥️ About Me :
     - 🙇‍♂️: I'm 20 yo. Junior Java developer and I'm in the market!
-    - 🔎: In my spare time I solve problems on LeetCode and study algorithms. MIPT lectures - a treasure)
+    - 🔎: In my spare time I solve problems on LeetCode and watch reports on YouTube from JPoint conferences and lectures.
     - 📖: Favorite books about Java:
            - Modern Java in Action - Raoul-Gabriel Urma, Mario Fusco;
            - Core Java vol 1 & 2 - Cay S. Horstmann;
